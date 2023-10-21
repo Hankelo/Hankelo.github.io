@@ -14,7 +14,6 @@ html, body {
   background-color: #856754;
   font-size: 44px;
   text-align: center;
-  padding: 100px 10 px 100px 40px;
   font-family: 'Dancing Script', cursive;
 }
 .content {
@@ -28,9 +27,6 @@ img{
   padding: 20px 10px 20px 10px;
   margin: auto;
 }
-.content a{
-  color: #30211A;
-}
 
 ul {
   list-style-type: none;
@@ -39,9 +35,7 @@ ul {
   overflow: hidden;
   background-color: #856754;
 }
-li {
-  float: center;
-}
+
 li a {
   display: block;
   color: white;
