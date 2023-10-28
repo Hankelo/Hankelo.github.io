@@ -76,7 +76,7 @@ li a:hover:not(.active) {
   padding: 20px;
   margin: 0px;
 }
-@media only screen and (min-width: 1000px){
+@media only screen and (min-width: 900px){
   .content{
     width: 85%;
   }
